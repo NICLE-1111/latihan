@@ -44,4 +44,3 @@ Digunakan untuk melakukan login pengguna dan menghasilkan **token JWT** yang dig
 ![Hasil No 1](../latihan-ukl/no_1.png)
 
 
-![Hasil No 4b](../latihan-ukl/no_4-b.png)
